@@ -1,44 +1,116 @@
 [
-    {
-        "id":1,
-        "name": "Silla",
-        "price": 56,
-        "image": "/products/silla.webp",
-        "categoryId": 1
-    },
-    {
-        "id":2,
-        "name": "Monitor",
-        "price": 450,
-        "image": "/products/monitor.jpg",
-        "categoryId": 1
-    },
-    {
-        "id":3,
-        "name": "Micrófono",
-        "price":20,
-        "image": "/products/microfono.jpg",
-        "categoryId": 2
-    },
-    {
-        "id":4,
-        "name": "Parlante",
-        "price": 56,
-        "image": "/products/parlantes.jpg",
-        "categoryId": 1
-    },
-    {
-        "id":5,
-        "name": "Audifono",
-        "price": 450,
-        "image": "/products/headphones.jpg",
-        "categoryId": 2
-    },
-    {
-        "id":6,
-        "name": "Mouse Gamer",
-        "price":20,
-        "image": "/products/mouse.jpg",
-        "categoryId": 2
-    }
+  {
+    "id": 1,
+    "name": "Silla Ergonómica Pro",
+    "price": 56,
+    "originalPrice": 75,
+    "image": "/products/silla.webp",
+    "categoryId": 1,
+    "description": "Silla de oficina con soporte lumbar ajustable, malla transpirable de alta densidad y reposabrazos 3D ergonómicos.",
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "inStock": true,
+    "badge": "Oferta",
+    "features": [
+      "Soporte lumbar dinámico y adaptable",
+      "Malla transpirable resistente al calor",
+      "Pistón de gas clase 4 de máxima seguridad",
+      "Ruedas silenciosas de poliuretano para piso delicado"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Monitor Gamer UltraWide 27\"",
+    "price": 450,
+    "originalPrice": 520,
+    "image": "/products/monitor.jpg",
+    "categoryId": 1,
+    "description": "Panel IPS Quad HD (2560x1440) de 165Hz con 1ms de respuesta, compatibilidad FreeSync Premium y bordes ultrafinos.",
+    "rating": 4.9,
+    "reviewsCount": 87,
+    "inStock": true,
+    "badge": "Más Vendido",
+    "features": [
+      "Frecuencia de actualización de 165Hz",
+      "Tiempo de respuesta ultrarrápido de 1ms",
+      "Tecnología antiparpadeo y filtro de luz azul",
+      "Puertos HDMI 2.1 y DisplayPort 1.4 incluidos"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Micrófono Condensador Studio",
+    "price": 20,
+    "originalPrice": 29,
+    "image": "/products/microfono.jpg",
+    "categoryId": 2,
+    "description": "Micrófono USB plug-and-play con patrón polar cardioide, filtro antipop desmontable y montura antichoque.",
+    "rating": 4.7,
+    "reviewsCount": 35,
+    "inStock": true,
+    "badge": "Económico",
+    "features": [
+      "Patrón polar cardioide para captación nítida",
+      "Conexión USB tipo C universal sin drivers",
+      "Botón táctil de muteo con indicador LED",
+      "Trípode metálico pesado antivibración"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Parlantes Estéreo Hi-Fi RGB",
+    "price": 56,
+    "originalPrice": 65,
+    "image": "/products/parlantes.jpg",
+    "categoryId": 1,
+    "description": "Sistema de altavoces 2.0 con transductores de rango completo, graves profundos y retroiluminación RGB dinámica.",
+    "rating": 4.6,
+    "reviewsCount": 19,
+    "inStock": true,
+    "badge": "Popular",
+    "features": [
+      "Sonido estéreo inmersivo de 20W RMS",
+      "Control de volumen frontal de acceso rápido",
+      "Conectividad Bluetooth 5.3 y auxiliar 3.5mm",
+      "Efectos de iluminación RGB sincronizables"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Audífonos Gamer Inalámbricos 7.1",
+    "price": 450,
+    "originalPrice": 499,
+    "image": "/products/headphones.jpg",
+    "categoryId": 2,
+    "description": "Headset inalámbrico con sonido envolvente 7.1 virtual, transductores de neodimio de 50mm y almohadillas de gel refrigerante.",
+    "rating": 5.0,
+    "reviewsCount": 64,
+    "inStock": true,
+    "badge": "Premium",
+    "features": [
+      "Autonomía de hasta 40 horas continuas",
+      "Conexión de baja latencia 2.4GHz + Bluetooth",
+      "Micrófono retráctil con cancelación pasiva de ruido",
+      "Estructura ligera de aluminio reforzado"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mouse Gamer Óptico 16000 DPI",
+    "price": 20,
+    "originalPrice": 30,
+    "image": "/products/mouse.jpg",
+    "categoryId": 2,
+    "description": "Mouse ergonómico para esports con sensor óptico de alta precisión, switches ópticos durables y cable paracord ultra flexible.",
+    "rating": 4.8,
+    "reviewsCount": 53,
+    "inStock": true,
+    "badge": "Top Ventas",
+    "features": [
+      "Sensor óptico ajustable hasta 16,000 DPI",
+      "Peso ultra liviano de solo 68 gramos",
+      "6 botones programables mediante software",
+      "Pies de PTFE 100% virgen para deslizamiento suave"
+    ]
+  }
 ]
