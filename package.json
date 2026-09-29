@@ -1,7 +1,9 @@
 {
   "name": "vue-3-ecommerce",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
+  "author": "Nano-DevCode",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

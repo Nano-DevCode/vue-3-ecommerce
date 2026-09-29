@@ -377,7 +377,7 @@ vue-3-ecommerce/
 
 ## 📄 Licencia & Créditos
 
-Este proyecto está bajo la Licencia **MIT**. Siéntete libre de utilizarlo como inspiración o base para tus propios proyectos.
+Este proyecto está bajo la Licencia [MIT](LICENSE). Consulta el archivo [LICENSE](LICENSE) para más detalles. Siéntete libre de utilizarlo como inspiración o base para tus propios proyectos.
 
-Desarrollado con dedicación por **Nano DevCode**.  
+Copyright © 2026 **Nano-DevCode**.  
 *¿Te gustó este proyecto? No dudes en darle una ⭐ en GitHub.*
